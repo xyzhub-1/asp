@@ -1,0 +1,16 @@
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.exe
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.deps.json
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.runtimeconfig.json
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.runtimeconfig.dev.json
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.dll
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\ref\square.dll
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\bin\Debug\net5.0\square.pdb
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.csproj.AssemblyReference.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.AssemblyInfoInputs.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.AssemblyInfo.cs
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.csproj.CoreCompileInputs.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.dll
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\ref\square.dll
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.pdb
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\square\obj\Debug\net5.0\square.genruntimeconfig.cache

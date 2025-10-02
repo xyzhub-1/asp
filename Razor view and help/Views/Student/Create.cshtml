@@ -1,0 +1,20 @@
+﻿@model Razor_view_and_help.Models.Student
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Course)
+        @Html.TextBoxFor(m => m.Course)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+    <input type="submit" value="Save" />
+}
+
+

@@ -1,0 +1,12 @@
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\bin\Debug\DNATE.mdf
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\bin\Debug\DNATE_log.ldf
+C:\Users\nathanwaghchoure\Desktop\New folder\asp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

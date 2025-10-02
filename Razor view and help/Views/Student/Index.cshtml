@@ -1,0 +1,14 @@
+﻿@model IEnumerable< Razor_view_and_help.Models.Student>
+
+<table>
+    <tr><th>Name</th><th>Course</th><th>Email</th></tr>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Course</td>
+            <td>@s.Email</td>
+        </tr>
+    }
+</table>
+<p>@Html.ActionLink("Add Student", "Create")</p>
