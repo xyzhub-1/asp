@@ -12,7 +12,7 @@
         </div>
 </body>
 </html>
-<asp:GridView runat="server" OnSelectedIndexChanged="Unnamed1_SelectedIndexChanged" Width="478px" ID="ProductGridView" AutoGenerateColumns="False" DataKeyNames="ProductID">
+<asp:GridView runat="server" Width="478px" ID="ProductGridView" AutoGenerateColumns="False" DataKeyNames="ProductID">
     <Columns>
         <asp:BoundField DataField="ProductID" HeaderText="Product ID" />
         <asp:BoundField DataField="ProductName" HeaderText="Product Name" />

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\p11",
+    "\\p11sscdcf"
   ],
-  "SelectedNode": "\\testing.sln",
+  "SelectedNode": "\\p11\\p11.sln",
   "PreviewInSolutionExplorer": false
 }
